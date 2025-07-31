@@ -1,6 +1,8 @@
 # xmaxx_autonomy
 The purpose of this repo is to provide documentation on the consutrction of an autonomous platform using the Traxxas XMAXX platform as a base.
 
+![xmaxx](images/xmaxx.jpg)
+
 This is very much a *work in progress*.
 
 ## Platform Parts List (Main)
